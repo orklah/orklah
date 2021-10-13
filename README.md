@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a french developer working mainly on Psalm plugins to help migrate legacy PHP codebase.
+I'm a french developer working mainly on Psalm maintenance and plugins to help migrate legacy PHP codebase.
 
 List of plugins that can fix code:
 - https://github.com/orklah/psalm-strict-types: Adds strict_types declaration when the file is provably safe 
