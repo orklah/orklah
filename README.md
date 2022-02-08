@@ -14,3 +14,5 @@ List of plugins that can detect bad practice
 - https://github.com/orklah/psalm-insane-comparison: Detects possible insane comparison ("string" == 0) to help migrate to PHP8 
 - https://github.com/orklah/psalm-strict-visibility: A Psalm plugin to detect calling private or protected method via proxy 
 - https://github.com/orklah/psalm-strict-numeric-cast: Restrict the use of (int) and (float) to numeric-string only 
+
+If you need to contact me, I can be found on Twitter or in Symfony's Slack (usually in #static-analysis channel) with the same username
